@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="indicator_selected_size" type="dimen">5dp</item>
+    <item name="indicator_size" type="dimen">3dp</item>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="titulo_home">Home</string>
+    <string name="titulo_list_generos">Genres</string>
+    <string name="titulo_configs">Settings</string>
+    <string name="sobre">About</string>
+    <string name="recomendados">Recommended</string>
+    <string name="populares">Popular</string>
+    <string name="melhores_avaliados">Top Rated</string>
+    <string name="prox_lancamentos">Up Coming</string>
+    <string name="ver_mais">More</string>
+    <string name="sinopse">Overview</string>
+    <string name="avaliacao">Rate:</string>
+    <string name="data_lancamento">Release:</string>
+    <string name="similares">Similar</string>
+    <string name="msg_boa_vinda">Welcome to</string>
+    <string name="sem_implementacao">There is not implemented here :(</string>
+    <string name="sem_sinopse">No overview</string>
+    <string name="indefinido">Undefined</string>
+    <string name="sem_conexao">Looks like you are offline</string>
+    <string name="cancelar">Cancel</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catálogo</string>
+    <string name="titulo_home">Inicio</string>
+    <string name="titulo_list_generos">Género</string>
+    <string name="titulo_configs">Ajustes</string>
+    <string name="sobre">Sobre</string>
+    <string name="recomendados">Recomendados</string>
+    <string name="populares">Populares</string>
+    <string name="melhores_avaliados">Clasificados</string>
+    <string name="prox_lancamentos">Pronto</string>
+    <string name="ver_mais">Ver más</string>
+    <string name="sinopse">Sinopsis</string>
+    <string name="avaliacao">Evaluación</string>
+    <string name="data_lancamento">Lanzamiento</string>
+    <string name="similares">Similar</string>
+    <string name="msg_boa_vinda">Bienvindo al</string>
+    <string name="sem_implementacao">No hay nada implementado aquí :(</string>
+    <string name="sem_sinopse">Sin sinopsis</string>
+    <string name="indefinido">Indefinido</string>
+    <string name="sem_conexao">Parece que estás desconectado</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

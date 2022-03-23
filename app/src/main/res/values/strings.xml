@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Catálogo</string>
+    <string name="titulo_home">Início</string>
+    <string name="titulo_list_generos">Gêneros</string>
+    <string name="titulo_configs">Configurações</string>
+    <string name="sobre">Sobre</string>
+    <string name="recomendados">Recomendados</string>
+    <string name="populares">Populares</string>
+    <string name="melhores_avaliados">Melhores Avaliados</string>
+    <string name="prox_lancamentos">Próximos Lançamentos</string>
+    <string name="ver_mais">Ver mais</string>
+    <string name="sinopse">Sinopse</string>
+    <string name="avaliacao">Avaliação:</string>
+    <string name="data_lancamento">Lançamento:</string>
+    <string name="similares">Similares</string>
+    <string name="msg_boa_vinda">Bem-vindo(a) ao</string>
+    <string name="sem_implementacao">Não há nada implementado aqui :(</string>
+    <string name="sem_sinopse">Sem sinopse</string>
+    <string name="indefinido">Indefinido</string>
+
+    <string name="lorem_ipsum" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis at nisi a convallis. Donec sed nulla consequat, fringilla magna id, vestibulum orci. Cras at ligula eget justo porta dictum non eu dui. Duis sit amet elit. Proin eget felis ipsum. Nullam dictum ante eget lacus blandit, nec dapibus ligula elementum.</string>
+    <string name="sem_conexao">Parece que você está sem conexão</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
